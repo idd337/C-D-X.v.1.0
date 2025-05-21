@@ -22,7 +22,7 @@
 🛠️ Installation
 
 ```bash
-git clone my repo
+git clone https://github.com/idd337/C-D-X.v.1.0.git
 cd whatsapp-bot
 npm install
 ```
